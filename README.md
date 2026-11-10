@@ -1,145 +1,105 @@
 
 <div align="center">
 
-<!-- BEATLES PIXEL ART HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF0000,20:FF7A00,40:FFD700,60:9C27B0,80:00BCD4,100:FF1493&text=THE%20BEATLES&fontSize=65&fontColor=FFFFFF&fontAlignY=45&animation=twinkling&desc=FOUR%20LADS%20FROM%20LIVERPOOL&descSize=16&descAlignY=68"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFEB3B,25:FF9800,50:EC407A,75:7E57C2,100:00BCD4&height=180&section=header&text=HERE%20COMES%20THE%20SUN&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ALL%20YOU%20NEED%20IS%20CODE&descAlignY=60&descSize=16"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=bold&size=22&pause=1000&color=F7D747&center=true&vCenter=true&width=500&lines=Welcome+to+my+Yellow+Submarine!;Living+in+a+Beatles+dream+%F0%9F%8E%B8;Let+it+be...+Let+it+code!;Come+together+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=18&duration=2500&pause=500&color=FF3366&center=true&vCenter=true&width=650&lines=JOHN+%E2%98%AE+PAUL+%E2%98%AE+GEORGE+%E2%98%AE+RINGO;TURN+ON%2C+TUNE+IN%2C+DROP+OUT;ALL+YOU+NEED+IS+LOVE;WE+ALL+LIVE+IN+A+YELLOW+SUBMARINE" />
 
 <br>
 
-<!-- PIXEL BEATLES -->
-<svg width="440" height="190" viewBox="0 0 440 190" xmlns="http://www.w3.org/2000/svg">
-<style>
-.pixel {shape-rendering:crispEdges}
-@keyframes dance {
-  0%,100% {transform:translateY(0)}
-  50% {transform:translateY(-9px)}
-}
-@keyframes glow {
-  0%,100% {opacity:0.5}
-  50% {opacity:1}
-}
-.b1 {animation:dance 0.8s infinite ease-in-out}
-.b2 {animation:dance 0.8s infinite ease-in-out 0.2s}
-.b3 {animation:dance 0.8s infinite ease-in-out 0.4s}
-.b4 {animation:dance 0.8s infinite ease-in-out 0.6s}
-.star {animation:glow 1s infinite}
-</style>
+<pre>
+      .       *        .       *        .
+   *       .       ☮       .       *
+        _______________
+     __/  THE BEATLES  \__
+    /_____________________\
+    |  JOHN  PAUL GEORGE  |
+    |       RINGO         |
+    \_____________________/
+        O           O
+   *       .      *      .
+</pre>
 
-<rect width="440" height="190" rx="12" fill="#171329"/>
-<g class="star" fill="#ffdf45">
-<rect x="25" y="25" width="5" height="5"/>
-<rect x="90" y="50" width="5" height="5"/>
-<rect x="350" y="30" width="5" height="5"/>
-<rect x="400" y="90" width="5" height="5"/>
-<rect x="200" y="18" width="5" height="5"/>
-<rect x="300" y="150" width="5" height="5"/>
-</g>
+# ☮ WELCOME TO THE BEATLES UNIVERSE ☮
 
-<!-- JOHN -->
-<g class="pixel b1">
-<rect x="48" y="50" width="42" height="35" fill="#d6a16b"/>
-<rect x="43" y="43" width="52" height="12" fill="#704326"/>
-<rect x="48" y="35" width="42" height="12" fill="#704326"/>
-<rect x="50" y="57" width="12" height="9" fill="#fff"/>
-<rect x="72" y="57" width="12" height="9" fill="#fff"/>
-<rect x="55" y="60" width="5" height="5" fill="#171329"/>
-<rect x="77" y="60" width="5" height="5" fill="#171329"/>
-<rect x="64" y="73" width="10" height="4" fill="#8b3d38"/>
-<rect x="43" y="87" width="52" height="48" fill="#e9e9e9"/>
-<rect x="48" y="135" width="15" height="25" fill="#30304a"/>
-<rect x="73" y="135" width="15" height="25" fill="#30304a"/>
-</g>
-
-<!-- PAUL -->
-<g class="pixel b2">
-<rect x="140" y="50" width="42" height="35" fill="#d6a16b"/>
-<rect x="135" y="38" width="52" height="17" fill="#a65d2f"/>
-<rect x="145" y="30" width="35" height="10" fill="#a65d2f"/>
-<rect x="145" y="57" width="12" height="9" fill="#fff"/>
-<rect x="165" y="57" width="12" height="9" fill="#fff"/>
-<rect x="150" y="60" width="5" height="5" fill="#171329"/>
-<rect x="170" y="60" width="5" height="5" fill="#171329"/>
-<rect x="155" y="74" width="12" height="4" fill="#8b3d38"/>
-<rect x="135" y="87" width="52" height="48" fill="#b52f46"/>
-<rect x="140" y="135" width="15" height="25" fill="#30304a"/>
-<rect x="165" y="135" width="15" height="25" fill="#30304a"/>
-</g>
-
-<!-- GEORGE -->
-<g class="pixel b3">
-<rect x="230" y="50" width="42" height="35" fill="#d6a16b"/>
-<rect x="225" y="40" width="52" height="15" fill="#493323"/>
-<rect x="235" y="32" width="35" height="10" fill="#493323"/>
-<rect x="235" y="57" width="12" height="9" fill="#fff"/>
-<rect x="255" y="57" width="12" height="9" fill="#fff"/>
-<rect x="240" y="60" width="5" height="5" fill="#171329"/>
-<rect x="260" y="60" width="5" height="5" fill="#171329"/>
-<rect x="245" y="74" width="12" height="4" fill="#8b3d38"/>
-<rect x="225" y="87" width="52" height="48" fill="#e5a52d"/>
-<rect x="230" y="135" width="15" height="25" fill="#30304a"/>
-<rect x="255" y="135" width="15" height="25" fill="#30304a"/>
-</g>
-
-<!-- RINGO -->
-<g class="pixel b4">
-<rect x="320" y="50" width="42" height="35" fill="#d6a16b"/>
-<rect x="315" y="40" width="52" height="15" fill="#a43e32"/>
-<rect x="325" y="32" width="35" height="10" fill="#a43e32"/>
-<rect x="325" y="57" width="12" height="9" fill="#fff"/>
-<rect x="345" y="57" width="12" height="9" fill="#fff"/>
-<rect x="330" y="60" width="5" height="5" fill="#171329"/>
-<rect x="350" y="60" width="5" height="5" fill="#171329"/>
-<rect x="335" y="74" width="12" height="4" fill="#8b3d38"/>
-<rect x="315" y="87" width="52" height="48" fill="#3b8b78"/>
-<rect x="320" y="135" width="15" height="25" fill="#30304a"/>
-<rect x="345" y="135" width="15" height="25" fill="#30304a"/>
-</g>
-
-<text x="220" y="181" font-size="11" fill="#ffdf45" text-anchor="middle" font-family="monospace">THE FAB FOUR ✦</text>
-</svg>
+<em>Nothing is real. And nothing to get hung about.</em>
 
 <br>
 
-### ✦ ABOUT ME ✦
+<img src="https://img.shields.io/badge/JOHN_LENNON-FF3030?style=for-the-badge&labelColor=171717"/>
+<img src="https://img.shields.io/badge/PAUL_MCCARTNEY-FFD700?style=for-the-badge&labelColor=171717"/>
+<img src="https://img.shields.io/badge/GEORGE_HARRISON-27AE60?style=for-the-badge&labelColor=171717"/>
+<img src="https://img.shields.io/badge/RINGO_STARR-3498DB?style=for-the-badge&labelColor=171717"/>
 
-💛 Just a developer in a psychedelic world.
+<br><br>
 
-🎸 Powered by Beatles, coffee and creativity.
+<img width="90%" src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif"/>
 
-🌻 Learning, creating and breaking things (in code).
+# ✦ THE FAB FOUR ✦
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=180" width="100%"/>
+<br><b>JOHN LENNON</b>
+<br><sub>The Dreamer</sub>
+<br>☮
+</td>
+<td align="center" width="25%">
+<img src="https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=180" width="100%"/>
+<br><b>PAUL McCARTNEY</b>
+<br><sub>The Melodist</sub>
+<br>♪ 
+</td>
+<td align="center" width="25%">
+<img src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=180" width="100%"/>
+<br><b>GEORGE HARRISON</b>
+<br><sub>The Quiet One</sub>
+<br>ॐ
+</td>
+<td align="center" width="25%">
+<img src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=180" width="100%"/>
+<br><b>RINGO STARR</b>
+<br><sub>The Beat</sub>
+<br>★
+</td>
+</tr>
+</table>
 
 <br>
 
-### MY FAVORITE ALBUMS
+# ☀️ HERE COMES THE SUN ☀️
 
-<img src="https://img.shields.io/badge/Abbey_Road-FFFFFF?style=for-the-badge&logo=thebeatles&logoColor=black"/>
-<img src="https://img.shields.io/badge/Revolver-FFE135?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Sgt._Pepper-EC407A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Yellow_Submarine-00BCD4?style=for-the-badge&logoColor=white"/>
+<img width="85%" src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1000"/>
 
-<br>
-
-### MY CODING WORLD
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+*"It's been a long, cold, lonely winter..."*
 
 <br>
 
-### GITHUB STATS
+# 🌀 MAGICAL MYSTERY TOUR 🌀
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&title_color=FFD700&icon_color=FF69B4&bg_color=171329&hide_border=true"/>
+<img width="85%" src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1000"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&bg_color=171329&hide_border=true"/>
+**ROLL UP! ROLL UP!**
+
+Step inside the magical mystery tour.
+
+A splendid time is guaranteed for all!
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,50:EC407A,100:FFEB3B&height=120&section=footer&animation=twinkling"/>
+# 🪲 ALL YOU NEED IS LOVE 🪲
 
-**♪ All you need is love... and a little bit of JavaScript. ♡**
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=bold&size=25&duration=2000&pause=500&color=FF1493&center=true&vCenter=true&width=550&lines=LOVE+LOVE+LOVE;LOVE+IS+ALL+YOU+NEED;COME+TOGETHER;GIVE+PEACE+A+CHANCE" />
+
+<br>
+
+# ✺ THE END ✺
+
+<em>And in the end, the love you take is equal to the love you make.</em>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,25:9C27B0,50:FFD700,75:FF4500,100:00BCD4&height=160&section=footer&animation=twinkling"/>
 
 </div>
